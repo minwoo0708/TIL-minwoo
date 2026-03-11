@@ -67,7 +67,6 @@ void main(){
     {
         print(i);
 
-        int total = 0
     }
     
     
